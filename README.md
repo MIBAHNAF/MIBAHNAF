@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @AHNAF
-- 👀 I’m interested in Gaming 
-- 🌱 I’m currently learning Graphics Designing and Responsive Web Design
-- 💞️ I’m looking to collaborate on ...N/A
-- 📫 How to reach me ...mirahnafali717@gmail.com
+Hello Everyone!
+I post all my nerdy work here.
+Feel free to check them out.
+Some are still buggy feel free to help the fix them :)
 
 <!---
 MIBAHNAF/MIBAHNAF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
